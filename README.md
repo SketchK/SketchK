@@ -7,5 +7,5 @@
   - WeChat Public Account: [「一瓜技术」](https://www.desgard.com/qrcode)
 - 📫 How to reach me:
   - Email: zhangsiqi1988@gmail.com
-  - Twitter: https://twitter.com/Desgard_Duan
+  - Twitter: https://twitter.com/sketchk47
 - 🌱 I’m currently learning iOS, macOS
