@@ -2,7 +2,7 @@
 
 ### SketchK  👋
 
-- 📙 Focusing on Apple Develop Ecosystem, expecially in Swift & iOS & macOS
+- 📙 Focusing on Apple Development Ecosystem, expecially Swift, iOS, macOS
 - 🔨 Creator of applications and frameworks
 - 🐏 Founder of [SwiftGG Team](https://github.com/SwiftGGTeam) & [CodeT](https://github.com/Code-T) & [@Conf](https://github.com/atConf)
 - 🗒 Technical artical author
