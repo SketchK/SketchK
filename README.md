@@ -2,7 +2,7 @@
 
 ### SketchK  👋
 
-- AKA 47
+- aka 47
 - 📙 Focusing on Apple Development Ecosystem, expecially Swift, XR, ML, iOS, macOS, DCC
 - 📚 Addicted to learning
 - 🪪 Founder of [XR Bro](https://xrbro.club/) & [SwiftGG Team](https://github.com/SwiftGGTeam) & [CodeT](https://github.com/Code-T) 
