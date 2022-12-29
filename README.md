@@ -2,13 +2,15 @@
 
 ### SketchK  👋
 
-- 📙 Focusing on Apple Development Ecosystem, expecially Swift, iOS, macOS
-- 🔨 Creator of applications and frameworks
-- 🐏 Founder of [SwiftGG Team](https://github.com/SwiftGGTeam) & [CodeT](https://github.com/Code-T) & [@Conf](https://github.com/atConf)
+- AKA 47
+- 📙 Focusing on Apple Development Ecosystem, expecially Swift, XR, ML, iOS, macOS, DCC
+- 📚 Addicted to learning
+- 🪪 Founder of [XR Bro](https://xrbro.club/) & [SwiftGG Team](https://github.com/SwiftGGTeam) & [CodeT](https://github.com/Code-T) 
+- 🏢 Organisers of Meeting [WWDC.playground](https://swift.gg/wwdc22/index_en.html) & [@Conf](https://github.com/atConf)
 - 🗒 Technical artical author
   - Blog: https://www.sketchk.xyz
   - WeChat Public Account: [「SwiftGG 翻译组」](https://swift.gg/#)
   - WeChat Public Account: [「一瓜技术」](https://www.desgard.com/qrcode)
 - 📫 How to reach me:
   - Email: zhangsiqi1988@gmail.com
-  - Twitter: https://twitter.com/sketchk47
+  - Twitter: [https://twitter.com/sketchk47](https://twitter.com/SketchK_47)
