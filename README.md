@@ -7,7 +7,7 @@
 - 📚 Addicted to learning
 - 🪪 Founder of [XRZone](https://github.com/XRealityZone) & [SwiftGG Team](https://github.com/SwiftGGTeam) & [CodeT](https://github.com/Code-T) 
 - 🏢 Organisers of Meeting
-  - WWDC.playground: [2023](https://wwdc23.swiftgg.team/) , [2022](https://wwdc22.swiftgg.team/), [2021](https://wwdc21.swiftgg.team/)
+  - WWDC.playground: [2023](https://wwdc23.swiftgg.team/), [2022](https://wwdc22.swiftgg.team/), [2021](https://wwdc21.swiftgg.team/)
   - @Swift Conf: [2018](https://atswift2018.swiftgg.team/), [2017](https://atswift2017.swiftgg.team/), [2016](https://atswift2016.swiftgg.team/)
 - 🗒 Technical artical author
   - Blog: https://www.sketchk.xyz
